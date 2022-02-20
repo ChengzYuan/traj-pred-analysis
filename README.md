@@ -1,4 +1,4 @@
-# Traj-Pred-Analysis
+# Human Trajectory Prediction and Analysis
 
 ## Human-Trajectory-Forecasting-from-the-Brid-eye-View
 A novel GAN-based hierarchical framework for human trajectory forecasting.
