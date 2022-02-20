@@ -15,3 +15,16 @@ Citation:
   year={2021},
   publisher={Elsevier}
 }
+
+
+# Comparative-Study-on-General-Trajectory-Forecasting-Framework
+
+A comparative study on the general trajectory forecasting framework, to explore the eﬀectiveness of varied length of observation sequences, widely used interaction modeling methods, and the multi-modal characteristics of current models.
+
+1. Explore the relationship between varied length of observation sequences and the prediction performances.
+
+2. A simplify framework is proposed for multimodal trajectory generation with promising results.
+
+3. Explore the effectiveness of widely used interaction modeling methods (grid-based method, social pooling layer, social attention, etc).
+
+Ref: https://github.com/ChengzYuan/Traj-Comparative-Study/blob/main/Traj_Comparative_Study.pdf
