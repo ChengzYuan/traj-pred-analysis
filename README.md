@@ -17,9 +17,10 @@ Citation:
 }
 
 
+
 ## Comparative-Study-on-General-Trajectory-Forecasting-Framework
 
-A comparative study on the general trajectory forecasting framework, to explore the eﬀectiveness of varied length of observation sequences, widely used interaction modeling methods, and the multi-modal characteristics of current models.
+Moreover, a comparative study on the general trajectory forecasting framework is conducted, to explore the eﬀectiveness of varied length of observation sequences, widely used interaction modeling methods, and the multi-modal characteristics of current models.
 
 1. Explore the relationship between varied length of observation sequences and the prediction performances.
 
