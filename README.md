@@ -1,6 +1,6 @@
-# traj-pred-analysis
+# Traj-Pred-Analysis
 
-# Human-Trajectory-Forecasting-from-the-Brid-eye-View
+## Human-Trajectory-Forecasting-from-the-Brid-eye-View
 A novel GAN-based hierarchical framework for human trajectory forecasting.
 
 Paper Available in: https://www.researchgate.net/publication/355195916_STENet_A_hybrid_spatio-temporal_embedding_network_for_human_trajectory_forecasting
@@ -17,7 +17,7 @@ Citation:
 }
 
 
-# Comparative-Study-on-General-Trajectory-Forecasting-Framework
+## Comparative-Study-on-General-Trajectory-Forecasting-Framework
 
 A comparative study on the general trajectory forecasting framework, to explore the eﬀectiveness of varied length of observation sequences, widely used interaction modeling methods, and the multi-modal characteristics of current models.
 
