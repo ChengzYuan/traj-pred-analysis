@@ -28,4 +28,4 @@ Moreover, a comparative study on the general trajectory forecasting framework is
 
 3. Explore the effectiveness of widely used interaction modeling methods (grid-based method, social pooling layer, social attention, etc).
 
-Ref: https://github.com/ChengzYuan/Traj-Comparative-Study/blob/main/Traj_Comparative_Study.pdf
+Link: https://github.com/ChengzYuan/traj-pred-analysis/blob/main/Traj_Comparative_Study.pdf
