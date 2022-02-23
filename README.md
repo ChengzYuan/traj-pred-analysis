@@ -28,4 +28,4 @@ Moreover, a comparative study on the general trajectory forecasting framework is
 
 3. A simplify framework is proposed for multimodal trajectory generation.
 
-Link: https://github.com/ChengzYuan/traj-pred-analysis/blob/main/Traj_Comparative_Study.pdf
+Links: https://github.com/ChengzYuan/traj-pred-analysis/blob/main/Traj_Comparative_Study.pdf
